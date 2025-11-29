@@ -72,7 +72,7 @@ These Terms shall be governed by the laws of Japan.
 ## 9. Contact Information
 
 Support URL:  
-http://bluestone57.strikingly.com/
+https://bluestone57.strikingly.com/
 
 ---
 

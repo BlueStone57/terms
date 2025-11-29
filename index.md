@@ -1,80 +1,79 @@
-# 利用規約（Terms of Use）
+# Terms of Use
 
-本利用規約（以下「本規約」といいます。）は、BlueStone57（以下「当方」といいます。）が提供するアプリおよび関連サービス（以下「本サービス」といいます。）の利用条件を定めるものです。本サービスをご利用される前に、本規約を必ずお読みください。本サービスを利用することで、ユーザーは本規約に同意したものとみなされます。
-
----
-
-## 第1条（適用）
-本規約は、ユーザーと当方との間の本サービスの利用に関わる一切の関係に適用されます。
+These Terms of Use (“Terms”) govern the use of the application and related services (“Service”) provided by BlueStone57 (“we”, “our”, or “us”). By using the Service, you agree to be bound by these Terms.
 
 ---
 
-## 第2条（利用条件）
-ユーザーは、自己の責任において本サービスを利用するものとします。  
-本サービスの利用には、インターネット接続環境が必要となり、通信費等はユーザーが負担するものとします。
+## 1. Application of Terms
+These Terms apply to all relationships between the user and us regarding the use of the Service.
 
 ---
 
-## 第3条（アカウントおよびデータ）
-当方は、ユーザーが本サービスを利用することにより生成されるデータを扱う場合があります。  
-当方は、ユーザー情報を当方のプライバシーポリシーに基づき適切に取り扱います。
+## 2. Conditions of Use
+Users shall use the Service at their own responsibility.  
+Internet connection fees or other communication costs are the responsibility of the user.
 
-プライバシーポリシー：  
+---
+
+## 3. User Data and Privacy
+We may handle data generated during the use of the Service.  
+User information is handled in accordance with our Privacy Policy.
+
+Privacy Policy:  
 https://bluestone57.github.io/privacy_policy/
 
 ---
 
-## 第4条（サブスクリプション）
-本サービスの一部には、自動更新サブスクリプションが含まれる場合があります。
+## 4. Subscription
+Some features of the Service may require an auto-renewable subscription.
 
-### 1. サブスクリプション内容
-- 提供機能、価格、期間などはアプリ内に明示します。
-- 料金はユーザーのApple IDに請求されます。
+### Subscription Details
+- Pricing, duration, and features are displayed within the app.
+- Payment will be charged to the user's Apple ID.
 
-### 2. 自動更新
-- サブスクリプション期間満了の24時間前までに自動更新を停止しない限り、契約は自動的に更新されます。
-- 自動更新時には、更新後の期間の料金がApple IDに請求されます。
+### Auto-Renewal
+- Subscription renews automatically unless canceled at least 24 hours before the end of the period.
+- Renewal charges will be applied to the user’s Apple ID.
 
-### 3. 管理・解約
-- サブスクリプションの管理および解約は Apple ID の「設定」 → 「サブスクリプション」から行えます。
-- サブスクリプション期間中の途中解約による返金は行いません。
-
----
-
-## 第5条（禁止事項）
-ユーザーは、以下の行為を行ってはなりません。
-
-1. 法令または公序良俗に違反する行為  
-2. 本サービスの運営を妨害する行為  
-3. 不正アクセス・リバースエンジニアリング等の行為  
-4. 当方または第三者の権利を侵害する行為  
-5. 本サービスの不正利用
+### Management
+- Users can manage or cancel subscriptions through Apple ID settings.
+- No refunds are provided for the unused portion of the subscription period.
 
 ---
 
-## 第6条（免責事項）
-1. 当方は、本サービスの内容の正確性・有用性について保証するものではありません。  
-2. 当方は、ユーザーの本サービス利用によって生じた損害について責任を負いません。  
-3. 当方は、サービス内容を予告なく変更・停止することがあります。
+## 5. Prohibited Actions
+Users must not engage in the following:
+
+- Violating laws or public order  
+- Interfering with Service operation  
+- Unauthorized access or reverse engineering  
+- Infringing our or third-party rights  
+- Fraudulent use of the Service
 
 ---
 
-## 第7条（利用規約の変更）
-当方は、必要に応じて本規約を変更できるものとします。変更後の規約は、本サービスまたは当方ウェブサイト上で告知した時点より効力を持つものとします。
+## 6. Disclaimer
+- We do not guarantee the accuracy or usefulness of the Service.  
+- We are not responsible for any damages arising from the use of the Service.  
+- We may modify or discontinue the Service without prior notice.
 
 ---
 
-## 第8条（準拠法）
-本規約の解釈には日本法を適用します。
+## 7. Changes to Terms
+We may modify these Terms when necessary. Changes will take effect upon being posted on the Service or related website.
 
 ---
 
-## 第9条（お問い合わせ窓口）
-本サービスに関するお問い合わせは、以下のページより受け付けます。
+## 8. Governing Law
+These Terms shall be governed by the laws of Japan.
 
-サポートURL：  
+---
+
+## 9. Contact Information
+
+Support URL:  
 http://bluestone57.strikingly.com/
 
 ---
 
-以上
+End of Terms

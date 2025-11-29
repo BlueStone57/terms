@@ -73,7 +73,7 @@ https://bluestone57.github.io/privacy_policy/
 本サービスに関するお問い合わせは、以下のページより受け付けます。
 
 サポートURL：  
-https://bluestone57.github.io/
+http://bluestone57.strikingly.com/
 
 ---
 
